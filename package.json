@@ -1,6 +1,6 @@
 {
   "name": "random-quote-generator",
-  "homepage": "https://myusername.github.io/fcc-rqm",
+  "homepage": "https://sharangukidve.github.io/fcc-rqm",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -14,7 +14,7 @@
     "web-vitals": "^1.0.1"
   },
   "scripts": {
-    "predeploy": "npm run build",
+    "predeploy": "yarn build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
